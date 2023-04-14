@@ -1,4 +1,4 @@
-# Boas-vindas ao repositório do projeto Arte com Pixels!!
+# Boas-vindas ao repositório do projeto Arte com Pixels!!!
 
 Para realizar o projeto, atente-se a cada passo descrito a seguir, e se tiver qualquer dúvida, nos envie por Slack! #vqv :rocket:
 
